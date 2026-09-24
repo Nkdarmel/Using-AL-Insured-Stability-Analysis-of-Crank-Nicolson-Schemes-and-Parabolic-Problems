@@ -4,7 +4,7 @@
 
 [![DOI](https://zenodo.org/badge/10.5281/zenodo.4753515.svg)](https://doi.org/10.5281/zenodo.4753515)
 [![Cite as](https://img.shields.io/badge/Cite%20as-AL--Insured%20Stability%20Analysis%20of%20Crank--Nicolson%20Schemes%20and%20Parabolic%20Problems-blue.svg)](https://doi.org/10.5281/zenodo.4753515)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.txt)
+[![License](https://img.shields.io/badge/License-GNU-yellow.svg)](LICENSE.txt)
 
 ## About 
 
