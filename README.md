@@ -1,5 +1,18 @@
 # Using-AL-Insured-Stability-Analysis-of-Crank-Nicolson-Schemes-and-Parabolic-Problems
 
+[![Repository Achievement](https://img.shields.io/badge/Repository-Achievement%20%7C%20Accessible%20%7C%20Findable%20%7C%20Reproducible%20%7C%20Interoperable-4B7BE5?logo=github)](https://github.com/Nkdarmel/OpenWeather-Rainwater-Harvesting-Integration/#repository-achievement)
+<p align="center">
+  <img alt="Repository Achievement" src="https://img.shields.io/badge/Repository%20Achievement-Research%20Simulation%20Ready-0A7EA4?style=for-the-badge&logo=github" />
+</p>
+
+The project is inspired by FAIR research practices and focuses on **feasibility, accessibility, interoperability, and reproducibility** rather than claiming a platform-issued GitHub achievement.
+
+<p align="center">
+  <a href="#feasible"><img alt="Feasible" src="https://img.shields.io/badge/Feasible-research%20prototype-2E7D32?style=flat-square" /></a>
+  <a href="#accessible"><img alt="Accessible" src="https://img.shields.io/badge/Accessible-documented-1565C0?style=flat-square" /></a>
+  <a href="#interoperable"><img alt="Interoperable" src="https://img.shields.io/badge/Interoperable-Python%20workflow-6A1B9A?style=flat-square" /></a>
+  <a href="#reproducible"><img alt="Reproducible" src="https://img.shields.io/badge/Reproducible-versioned%20workflow-E65100?style=flat-square" /></a>
+</p
 
 
 [![DOI](https://zenodo.org/badge/10.5281/zenodo.4753515.svg)](https://doi.org/10.5281/zenodo.4753515)
@@ -10,7 +23,7 @@
 
 The Crank-Nicolson scheme is a popular finite difference technique used for numerically solving partial differential equations (PDEs), including parabolic problems with non-homogeneous terms. This method is known for its second-order accuracy in both time and space, making it highly effective for various applications [1]. To ensure the stability of the Crank-Nicolson scheme under temporally variable forcing functions and spatially non-uniform networks commonly encountered in satellite applications and biological tissues materials, we need to analyze its theoretical properties. Theoretical results demonstrate that the Crank-Nicolson scheme is unconditionally stable for linear parabolic problems [2]. However, when dealing with nonlinear terms or non-homogeneous boundary conditions, additional analysis may be required.
 For instance, J. Li and X. Wang in their work "Stability Analysis of the Crank-Nicolson Method for Solving Parabolic Problems with Non-Homogeneous Terms" (Numerical Methods for Partial Differential Equations, 2020) provide a detailed stability analysis that extends these results to parabolic problems with non-homogeneous terms [3]. Their findings show that under certain conditions, the Crank-Nicolson scheme remains stable even in the presence of temporally variable forcing functions and spatially non-uniform networks.
-To validate the effectiveness of our approach using realistic satellite scenarios, additional numerical experiments could be conducted. These experiments would help to demonstrate the potential improvement in precision and reliability provided by the Crank-Nicolson scheme [4].
+To validate the effectiveness of our approach using realistic satellite scenarios in GIS Development, additional numerical experiments could be conducted. These experiments would help to demonstrate the potential improvement in precision and reliability provided by the Crank-Nicolson scheme [4].
 The Crank-Nicolson scheme is a robust method for solving parabolic problems with non-homogeneous terms, particularly useful in satellite-based systems. Theoretical analysis and numerical experiments can further validate its effectiveness under various conditions.
 
 
